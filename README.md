@@ -7,6 +7,8 @@ Elle vise à centraliser et moderniser la gestion des événements organisés pa
 
 L’application permet de gérer efficacement les demandes d’événements, les réservations de salles et la validation administrative, tout en offrant une meilleure visibilité du calendrier global des activités.
 
+![Présentation générale](images/1.png)
+
 ---
 
 ## Contexte du projet
@@ -17,6 +19,8 @@ Actuellement :
 - Les clubs réservent les salles pour leurs réunions et événements de manière régulière.
 - La coordination entre l’administration, les clubs et les responsables d’événements se fait souvent manuellement (messages, feuilles Excel, formulaires dispersés).
 - Cela provoque des conflits de réservation, des doubles bookings et un manque de visibilité globale.
+
+![Tableau de bord](images/2.png)
 
 Face à ces difficultés, l’IHEC souhaite centraliser et moderniser la gestion des événements et des réservations afin d’améliorer l’organisation générale.
 
@@ -33,6 +37,8 @@ IHECEventHub a pour objectifs de :
 - Réduire les erreurs de communication et éviter les conflits de dates.
 - Moderniser le flux organisationnel grâce à une interface simple, efficace et intuitive.
 
+![Gestion des événements](images/3.png)
+
 ---
 
 ## Idée du projet
@@ -41,6 +47,8 @@ L’idée du projet est de créer une application simple, moderne et centralisé
 - Les événements
 - Les demandes de salles
 - Les validations administratives
+
+![Création d’un événement](images/4.png)
 
 Cette solution vise à remplacer les méthodes manuelles actuelles par un système informatique fiable et structuré.
 
@@ -59,6 +67,36 @@ IHECEventHub permet d’améliorer :
 - La transparence
 - La rapidité de traitement des demandes
 
+![Validation et suivi](images/5.png)
+
+---
+
+## Aperçu des fonctionnalités
+
+### Réservation des salles
+![Réservation des salles](images/6.png)
+
+### Validation administrative
+![Validation administrative](images/7.png)
+
+### Modification et gestion des événements
+![Modification événements](images/8.png)
+
+### Calendrier global des activités
+![Calendrier](images/9.png)
+
+### Gestion des utilisateurs
+![Gestion utilisateurs](images/10.png)
+
+### Notifications et alertes
+![Alertes](images/11.png)
+
+### Détails des demandes
+![Détails demandes](images/12.png)
+
+### Paramètres de l’application
+![Paramètres](images/13.png)
+
 ---
 
 ## Technologies utilisées
@@ -67,7 +105,6 @@ IHECEventHub permet d’améliorer :
 - Architecture orientée gestion des événements et des réservations
 - Interface pensée pour les clubs étudiants et l’administration
 
----
 
 ## Documentation
 
